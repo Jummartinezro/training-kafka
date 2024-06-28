@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootWithKafkaApplication<spring.boot.with.kafka>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jummartinezro.spring.boot.with.kafka.SpringBootWithKafkaApplication",
+            "projectName": "spring.boot.with.kafka",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+curl --request POST \
+  --url 'http://localhost:9000/kafka/publish?message=hola' \
+  --header 'Content-Type: application/json'
